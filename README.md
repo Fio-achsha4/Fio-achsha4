@@ -1,12 +1,12 @@
 # Hi, I'm Fiona
 
-🎓 B.E. Computer Science Engineering (Cyber Security) — 3rd Year  
-💻 Learning Python and building cybersecurity-focused projects  
-🔐 Interested in Digital Forensics, Cybercrime Detection & Fraud Analysis  
-🧠 Exploring Machine Learning for Security Applications  
-🎨 3D Modeling with Blender  
+- B.E. Computer Science Engineering (Cyber Security) — 3rd Year
+- Learning Python and building cybersecurity-focused projects  
+- Interested in Digital Forensics, Cybercrime Detection & Fraud Analysis  
+- Exploring Machine Learning for Security Applications  
+- 3D Modeling with Blender  
 
-## 🔎 Areas I'm Interested In
+##  Areas I'm Interested In
 
 - Digital Forensics
 - Cybercrime Detection
@@ -16,7 +16,7 @@
 - Image & Data Analysis
 - Security-focused Software Development
 
-## 🛠️ Skills & Technologies
+##  Skills & Technologies
 
 - Python
 - Java
@@ -29,9 +29,9 @@
 - Computer Vision
 - Machine Learning
 
-## 🚀 Featured Project
+##  Featured Project
 
-### 🎨 AI Art Detector
+###  AI Art Detector
 
 A machine learning web application that classifies artwork as **likely AI-generated or human-created** using MobileNetV3-Small.
 
@@ -41,7 +41,7 @@ A machine learning web application that classifies artwork as **likely AI-genera
 
 🔗 [View on GitHub](https://github.com/Fio-achsha4/AI_ART_DETECTOR)
 
-## 🎯 Currently Learning
+##  Currently Learning
 
 - Python development
 - Machine Learning
@@ -49,4 +49,4 @@ A machine learning web application that classifies artwork as **likely AI-genera
 - Cybersecurity
 - Detection and analysis techniques
 
-> Building projects to learn, experiment, and solve real-world cybersecurity problems. 🔐
+> Building projects to learn, experiment, and solve real-world cybersecurity problems.
