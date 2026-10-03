@@ -29,12 +29,17 @@
 - Computer Vision
 - Machine Learning
 
-## 🚀 Projects
+## 🚀 Featured Project
 
 ### 🎨 AI Art Detector
-Machine learning web application that classifies artwork as likely AI-generated or human-created using MobileNetV3-Small.
 
-🔗 [View Project](https://github.com/Fio-achsha4/AI_ART_DETECTOR)
+A machine learning web application that classifies artwork as **likely AI-generated or human-created** using MobileNetV3-Small.
+
+**Tech:** Python · PyTorch · Computer Vision · Flask · HTML · CSS · JavaScript
+
+📊 **Test Accuracy:** 78.89% on a held-out test set of 180 images
+
+🔗 [View on GitHub](https://github.com/Fio-achsha4/AI_ART_DETECTOR)
 
 ## 🎯 Currently Learning
 
