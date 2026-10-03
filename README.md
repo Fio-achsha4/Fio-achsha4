@@ -1,4 +1,4 @@
-# Hi, I'm Fiona 👋
+# Hi, I'm Fiona
 
 🎓 B.E. Computer Science Engineering (Cyber Security) — 3rd Year  
 💻 Learning Python and building cybersecurity-focused projects  
