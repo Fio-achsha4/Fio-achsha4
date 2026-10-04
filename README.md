@@ -29,7 +29,7 @@
 - Computer Vision
 - Machine Learning
 
-##  Featured Project
+##  Featured Projects
 
 ###  AI Art Detector
 
@@ -40,6 +40,19 @@ A machine learning web application that classifies artwork as **likely AI-genera
 📊 **Test Accuracy:** 78.89% on a held-out test set of 180 images
 
 🔗 [View on GitHub](https://github.com/Fio-achsha4/AI_ART_DETECTOR)
+
+
+### XQR FOR MERCHANTS
+
+An explainable digital-forensics framework that detects **suspicious tampering around physical UPI QR payment stickers** using computer vision and image-forensics techniques.
+
+**Tech:** Python · OpenCV · YOLOv8 · Flask · PyTorch · Computer Vision · Image Forensics
+
+🔍 **Forensic Analysis:** ELA · Quiet-Zone Analysis · Noise Variance · Combined Heatmaps
+
+📊 **Controlled Test:** 85/99 forensic score for the tampered sample, compared with 0/99 for the genuine sample
+
+🔗 [View on GitHub](https://github.com/Fio-achsha4/XQR-FOR-MERCHANTS)
 
 ##  Currently Learning
 
